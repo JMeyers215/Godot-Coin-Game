@@ -1,4 +1,13 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1696710993
+::res://::1696711177
 icon.svg::CompressedTexture2D::2487052833842470128::1696710988::1696710994::1::::<><>::
-::res://Godot-Coin-Game/::1696710949
+::res://Materials/::1696711177
+::res://Scenes/::1696711197
+::res://Scenes/Levels/::1696711192
+CoinCollectorLevel.tscn::PackedScene::4595427449727384017::1696711389::0::1::::<><>::uid://cjd1joc0jio3c::::res://Scenes/Objects/player.tscn<>uid://cxrvvn8pfre7r::::res://Scenes/Objects/coin.tscn
+::res://Scenes/Objects/::1696711197
+player.tscn::PackedScene::5412329546912500066::1696711422::0::1::::<><>::uid://ciob4u725g8qb::::res://Sprites/Player.png
+coin.tscn::PackedScene::6423592485871046233::1696711421::0::1::::<><>::uid://crapfwb35ujc8::::res://Sprites/Coin.png
+::res://Sprites/::1696711149
+Coin.png::CompressedTexture2D::5966972551465360201::1694845428::1696711149::1::::<><>::
+Player.png::CompressedTexture2D::5363367011231171733::1694845428::1696711149::1::::<><>::

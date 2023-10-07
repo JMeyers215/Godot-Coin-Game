@@ -1,0 +1,11 @@
+[gd_scene load_steps=3 format=3 uid="uid://b6qcavu4asl1b"]
+
+[ext_resource type="PackedScene" uid="uid://cjd1joc0jio3c" path="res://Scenes/Objects/player.tscn" id="1_6g5ga"]
+[ext_resource type="PackedScene" uid="uid://cxrvvn8pfre7r" path="res://Scenes/Objects/coin.tscn" id="2_ksfk5"]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="Player" parent="." instance=ExtResource("1_6g5ga")]
+
+[node name="Coin" parent="." instance=ExtResource("2_ksfk5")]
+position = Vector2(165, -1)
