@@ -1,16 +1,20 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1696787716
+::res://::1696789325
+export_presets.cfg::TextFile::-1::1696789315::0::1::::<><>::
+Godot Coin Game.apple-touch-icon.png::CompressedTexture2D::7705465228266866087::1696789324::1696789398::1::::<><>::
+Godot Coin Game.icon.png::CompressedTexture2D::5438288096190847189::1696789324::1696789398::1::::<><>::
+Godot Coin Game.png::CompressedTexture2D::3808874699558086697::1696789324::1696789398::1::::<><>::
 icon.svg::CompressedTexture2D::2487052833842470128::1696710988::1696787717::1::::<><>::
 ::res://Materials/::1696711177
 ::res://Scenes/::1696711197
-::res://Scenes/Levels/::1696754815
-CoinCollectorLevel.tscn::PackedScene::4595427449727384017::1696754815::0::1::::<><>::uid://cjd1joc0jio3c::::res://Scenes/Objects/player.tscn<>uid://cxrvvn8pfre7r::::res://Scenes/Objects/coin.tscn
-::res://Scenes/Objects/::1696754815
-coin.tscn::PackedScene::6423592485871046233::1696754815::0::1::::<><>::uid://crapfwb35ujc8::::res://Sprites/Coin.png
-player.tscn::PackedScene::5412329546912500066::1696754815::0::1::::<><>::res://Scripts/Player.gd<>uid://ciob4u725g8qb::::res://Sprites/Player.png<>res://Scripts/playerscript.gd
-::res://Scripts/::1696754792
-Player.gd::GDScript::-1::1696754792::0::1::::<>CharacterBody2D<>::
-playerscript.gd::GDScript::-1::1696754638::0::1::::<>Sprite2D<>::
+::res://Scenes/Levels/::1696788489
+CoinCollectorLevel.tscn::PackedScene::4595427449727384017::1696788489::0::1::::<><>::uid://cjd1joc0jio3c::::res://Scenes/Objects/player.tscn<>uid://cxrvvn8pfre7r::::res://Scenes/Objects/coin.tscn
+::res://Scenes/Objects/::1696788405
+coin.tscn::PackedScene::6423592485871046233::1696788405::0::1::::<><>::res://Scripts/coinscript.gd<>uid://crapfwb35ujc8::::res://Sprites/Coin.png
+player.tscn::PackedScene::5412329546912500066::1696788405::0::1::::<><>::res://Scripts/Player.gd<>uid://ciob4u725g8qb::::res://Sprites/Player.png
+::res://Scripts/::1696788489
+Player.gd::GDScript::-1::1696788489::0::1::::<>CharacterBody2D<>::
+coinscript.gd::GDScript::-1::1696788358::0::1::::<>Area2D<>::
 ::res://Sprites/::1696711149
 Coin.png::CompressedTexture2D::5966972551465360201::1694845428::1696711149::1::::<><>::
 Player.png::CompressedTexture2D::5363367011231171733::1694845428::1696711149::1::::<><>::
