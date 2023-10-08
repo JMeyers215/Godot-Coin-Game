@@ -1,3 +1,5 @@
+res://Scenes/Levels/CoinCollectorLevel.tscn
 res://Scenes/Objects/player.tscn
 res://Scenes/Objects/coin.tscn
-res://Scenes/Levels/CoinCollectorLevel.tscn
+res://Scripts/coinscript.gd
+res://Scripts/Player.gd

@@ -6,6 +6,19 @@
 [node name="Node2D" type="Node2D"]
 
 [node name="Player" parent="." instance=ExtResource("1_6g5ga")]
+position = Vector2(294, 137)
 
 [node name="Coin" parent="." instance=ExtResource("2_ksfk5")]
-position = Vector2(165, -1)
+position = Vector2(459, 145)
+
+[node name="Coin2" parent="." instance=ExtResource("2_ksfk5")]
+position = Vector2(238, 294)
+
+[node name="Coin3" parent="." instance=ExtResource("2_ksfk5")]
+position = Vector2(-58, 165)
+
+[node name="Coin4" parent="." instance=ExtResource("2_ksfk5")]
+position = Vector2(228, -20)
+
+[node name="Coin5" parent="." instance=ExtResource("2_ksfk5")]
+position = Vector2(671, 416)
